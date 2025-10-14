@@ -1,0 +1,28 @@
+/*
+ A class starts with a dot (.)
+ and can be reused on many elements
+*/
+
+.highlight {
+
+background: #0026ff;  /*yellow background */
+
+}
+
+/*
+
+ An ID starts with a hash (#)
+ and shoukld only be used once per page
+
+ */
+
+ #cat{
+
+    font-size: 24pt
+    font-style: italic;
+    color:#ff5050;
+
+
+
+
+ }
